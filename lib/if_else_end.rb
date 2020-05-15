@@ -1,4 +1,4 @@
-cuurent time = Time.now.to_s
+cuurent_time = Time.now.to_s
 if Time.now.even?
   puts "Even!"
 else
