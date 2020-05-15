@@ -1,8 +1,6 @@
-current_time = Time.now
-current_time = current_time.to_i
-
-if current_time.even?
-  puts "Even!"
-else
-  puts "Odd!"
+count = 10
+while count > 1 && count 1 = 1 do
+  puts "#{count}!"
+  count = count - 1
+  puts "Happy New Year!"
 end
